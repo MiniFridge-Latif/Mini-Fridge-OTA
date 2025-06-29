@@ -16,6 +16,5 @@
       "url": "https://yourdomain.com/firmwares/esp_firmware_1.0.2.bin",
       "notes": "Bugfix in temperature logging"
     }
-    // …any older releases…
   ]
 }
