@@ -1,4 +1,21 @@
 {
-  "version": "1.1.1",
-  "url": "https://yourdomain.com/firmwares/esp_firmware_1.1.1.bin"
+  "current": "1.1.1",
+  "releases": [
+    {
+      "version": "1.1.1",
+      "url": "https://yourdomain.com/firmwares/esp_firmware_1.1.1.bin",
+      "notes": "Added multi‑WiFi and OTA from GitHub JSON"
+    },
+    {
+      "version": "1.1.0",
+      "url": "https://yourdomain.com/firmwares/esp_firmware_1.1.0.bin",
+      "notes": "Initial GitHub OTA implementation"
+    },
+    {
+      "version": "1.0.2",
+      "url": "https://yourdomain.com/firmwares/esp_firmware_1.0.2.bin",
+      "notes": "Bugfix in temperature logging"
+    }
+    // …any older releases…
+  ]
 }
