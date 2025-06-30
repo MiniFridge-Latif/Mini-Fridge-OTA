@@ -1,13 +1,13 @@
 {
   "latest": {
     "version": "1.2.1",
-    "url": "https://github.com/MiniFridge-Latif/firmware/releases/download/v1.0.0/project_fridge.1.2.1.bin",
+    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/af179630-f57e-4b7e-bc5f-a69b9000ae12?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250630T113725Z&X-Amz-Expires=1800&X-Amz-Signature=9382ba5ba2236be67ce0ca288cbb9bd61fc94804628cb78b5f6234b31e617608&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dproject_fridge.1.2.1.bin&response-content-type=application%2Foctet-stream",
     "notes": "Improved system stability and logging accuracy"
   },
   "history": [
     {
       "version": "1.4.1",
-      "url": "https://github.com/MiniFridge-Latif/firmware/releases/download/v1.0.0/project_fridge.1.4.1.bin"
+      "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/ff456e75-6d4b-4ff4-9124-17ec4a7c061e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250630T114043Z&X-Amz-Expires=1800&X-Amz-Signature=ed89b956dbbe0c0377c9f336b00f991010c7ed6822678bb7226b8ab6cf6b2256&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dproject_fridge.1.4.1.bin&response-content-type=application%2Foctet-stream"
       
     },
     {
@@ -17,7 +17,7 @@
     },
     {
       "version": "1.2.1",
-      "url": "https://github.com/MiniFridge-Latif/firmware/releases/download/v1.0.0/project_fridge.1.2.1.bin"
+      "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/af179630-f57e-4b7e-bc5f-a69b9000ae12?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250630%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250630T113725Z&X-Amz-Expires=1800&X-Amz-Signature=9382ba5ba2236be67ce0ca288cbb9bd61fc94804628cb78b5f6234b31e617608&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dproject_fridge.1.2.1.bin&response-content-type=application%2Foctet-stream"
     },
     {
       "version": "1.1.1",
