@@ -1,7 +1,7 @@
 {
   "latest": {
     "version": "2.2.4",
-    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/3433b964-7167-44c4-9139-bc6e50639ced?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250701T193238Z&X-Amz-Expires=1800&X-Amz-Signature=3b5a03e418e092d418afc7f0a7c8c4dfb1853efeafe258e7b2ff9c9b0ae3cb0f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.4.bin&response-content-type=application%2Foctet-stream"
+    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/3433b964-7167-44c4-9139-bc6e50639ced?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250701T193238Z&X-Amz-Expires=1800&X-Amz-Signature=3b5a03e418e092d418afc7f0a7c8c4dfb1853efeafe258e7b2ff9c9b0ae3cb0f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.4.bin&response-content-type=application%2Foctet-stream",
     "notes": "Remove Bugs (resume not working loging hot modd logs in cold mood)"
   },
   "history": [
