@@ -2,7 +2,7 @@
   "latest": {
     "version": "2.2.3",
     "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/fa6b0e30-9357-4724-b0bc-6296f0489b8d?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250701T094629Z&X-Amz-Expires=1800&X-Amz-Signature=5d58bee27343dbb81492a15505eb505d3b247fbce85605fa3d82feb65526816e&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.3.bin&response-content-type=application%2Foctet-stream",
-    "notes": "Improved system stability and logging accuracy"
+    "notes": "Remove Bugs"
   },
   "history": [
     {
