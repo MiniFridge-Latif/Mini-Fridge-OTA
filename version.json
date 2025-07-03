@@ -1,6 +1,6 @@
 {
   "latest": {
-    "version": "2.2.6",
+    "version": "2.2.5",
     "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/b03ec6e3-4859-4094-bd8b-67d1e113d2f8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250703T150711Z&X-Amz-Expires=1800&X-Amz-Signature=b21ba478a4db37218b528e7c9c85b347d52fffdb3a9a7c887e8e6214ca557ee1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.6.bin&response-content-type=application%2Foctet-stream",
     "notes": "Implement sutdown wif on of feature"
   },
