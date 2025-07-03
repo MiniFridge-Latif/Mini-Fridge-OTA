@@ -1,6 +1,6 @@
 {
   "latest": {
-    "version": "2.2.7",
+    "version": "2.2.5",
     "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/5d0eb5bd-12fa-4b40-af9b-d995d22c8053?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250703T165024Z&X-Amz-Expires=1800&X-Amz-Signature=9bc9db3ffc4390bd6cf200d1aee41e7a9510e8e22b0e93f31c3f2d7b3b715800&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dsketch_jul3b.ino.bin&response-content-type=application%2Foctet-stream",
     "notes": "Implement sutdown wif on of feature"
   },
