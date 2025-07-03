@@ -1,11 +1,16 @@
 {
   "latest": {
-    "version": "2.2.5",
-    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/5cb861e8-6c70-41f1-8986-8ba6cddf99ea?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250703T102207Z&X-Amz-Expires=1800&X-Amz-Signature=7df97c1e541df2386a5d50f32917811e2e475e45e77a269df8d891194ed5e024&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.5.bin&response-content-type=application%2Foctet-stream",
+    "version": "2.2.6",
+    "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/b03ec6e3-4859-4094-bd8b-67d1e113d2f8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250703T150711Z&X-Amz-Expires=1800&X-Amz-Signature=b21ba478a4db37218b528e7c9c85b347d52fffdb3a9a7c887e8e6214ca557ee1&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.6.bin&response-content-type=application%2Foctet-stream",
     "notes": "Implement sutdown wif on of feature"
   },
   "history": [
      {
+      "version": "2.2.5",
+      "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/5cb861e8-6c70-41f1-8986-8ba6cddf99ea?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250703%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250703T102207Z&X-Amz-Expires=1800&X-Amz-Signature=7df97c1e541df2386a5d50f32917811e2e475e45e77a269df8d891194ed5e024&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.5.bin&response-content-type=application%2Foctet-stream",
+      "notes": "Implement sutdown wif on of feature"
+    },
+    {
       "version": "2.2.4",
       "url": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/1011143251/3433b964-7167-44c4-9139-bc6e50639ced?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250701%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250701T193935Z&X-Amz-Expires=1800&X-Amz-Signature=b975b0d0531f07714faa5061bb9cf517b0890ba7b96de2cbf41327c98001e561&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dmini_fridge_firmware_v2.2.4.bin&response-content-type=application%2Foctet-stream",
       "notes": "Remove Bugs (stop at resume tempratue)"    
